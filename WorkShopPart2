@@ -1,3 +1,4 @@
+hello ("pavi")
 docker container run -ti ubuntu bash
 
 
